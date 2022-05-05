@@ -1,0 +1,2 @@
+module NewStuffHelper
+end
